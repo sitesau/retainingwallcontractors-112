@@ -1,0 +1,22 @@
+{
+  "wheel_id": 815,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-112",
+  "project": "retaining-wall-builders-glossary-8142b48992ad1f3f0c8371f0032b9b",
+  "parent_t1_ref": "retainingwallcontractors-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall builders glossary",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-glossary-8142b48992ad1f3f0c8371f0032b9b/",
+  "tier": "T2",
+  "writeback_nonce": "6168f53f24e29f0f",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallcontractors-155/",
+      "anchor": "this retaining wall builders resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
